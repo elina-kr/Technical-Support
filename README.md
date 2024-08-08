@@ -1,6 +1,3 @@
-# Technical-Support
-### English Version
-
 # Dashboard for Customer Support Team - Technical Support Ticket Analysis
 
 ## Overview
